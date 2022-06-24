@@ -27,4 +27,4 @@ Wow!
   <img alt="Microsoft Edge" src="https://img.shields.io/badge/-Edge-0078D7?style=flat&logo=Microsoft%20Edge&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
 </p>
-
+![](https://activity-graph.herokuapp.com/graph?username=Jay1124b&theme=redical
