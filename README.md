@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Jay1124b/Jay1124b@master/hello-world.gif" width="30%">
 
-​    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+​    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
 
   <br><br>GitHub :point_right: @ me on <a *href*="https://github.com/Jay1124b">GitHub</a>
 
