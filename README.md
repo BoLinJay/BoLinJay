@@ -2,7 +2,7 @@
      <img src="https://cdn.jsdelivr.net/gh/Jay1124b/Jay1124b@master/hello-world.gif" width="30%">
   
       <samp>
-  ​    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px">
+  ​    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
         <br><br>GitHub :point_right: @ me on <a *href*="https://github.com/Jay1124b">GitHub</a>
      </samp>
 
