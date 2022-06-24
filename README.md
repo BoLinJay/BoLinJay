@@ -1,6 +1,5 @@
 <p align="center">
-
-![Hello,Word!](https://cdn.jsdelivr.net/gh/Jay1124b/Jay1124b@master/hello-world.gif)
+  <img src="https://cdn.jsdelivr.net/gh/Jay1124b/Jay1124b@master/hello-world.gif" width="30%">
 
 ​    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
