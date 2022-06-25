@@ -9,7 +9,7 @@
 </p>
 Wow!
 
-<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jay1124b&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
+<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 ### Languages I use
 
@@ -28,4 +28,4 @@ Wow!
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=Jay1124b&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical)
