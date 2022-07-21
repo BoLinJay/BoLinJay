@@ -4,7 +4,7 @@
   <samp>
       <em>Hello,Word!</em><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>GitHub :point_right: @ me on <a href="https://github.com/Jay1124b">GitHub</a>
+    <br><br>GitHub :point_right: @ me on <a href="https://github.com/BoLinJay">GitHub</a>
   </samp>
 </p>
 Wow!
