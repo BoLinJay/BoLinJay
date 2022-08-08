@@ -1,6 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div align="center" width="50">
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dev-working_rounded.gif?raw=true" href="https://github.com/BoLinJay" width="60%"/>
 <hr></hr>
 
