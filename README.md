@@ -1,7 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<div align="center" width="50">
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dev-working_rounded.gif?raw=true" href="https://github.com/BoLinJay" width="60%"/>
 <hr></hr>
+</div>
 
 - <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/Developer.gif?raw=true" width="25"/>&nbsp;我目前正在学习JavaScript、Vue、数据结构和算法 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;我喜欢探索前沿技术. <br>
