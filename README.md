@@ -8,9 +8,6 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;我喜欢探索前沿技术. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;我的联系邮箱 **[超人不会飞~](jay1124cbl@126.com)**<br>
 
-<img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
-
-
 ## 🚀💻 Technologies & Tools
 
 <a name="learning-now"></a>
