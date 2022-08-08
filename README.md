@@ -1,5 +1,5 @@
+<div align="center" width="50">
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
 <div align="center" width="50">
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dev-working_rounded.gif?raw=true" href="https://github.com/BoLinJay" width="60%"/>
 <hr></hr>
@@ -9,9 +9,6 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;我的联系邮箱 **[超人不会飞~](jay1124cbl@126.com)**<br>
 
 <img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
-
-
-
 
 ## 🚀💻 Technologies & Tools
 
@@ -33,3 +30,4 @@
 ![](https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical)
 
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
+</div>
