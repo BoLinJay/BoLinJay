@@ -28,11 +28,11 @@
 
 <a name="learning-next"></a>
 
-<img width="75%" src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 ![](https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical)
 
-<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
+<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 
 
 [tech_tools_anchor]: #bonjour--
