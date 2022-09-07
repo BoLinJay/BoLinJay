@@ -5,7 +5,7 @@
 <hr></hr>
 </div>
 
-- <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/Developer.gif?raw=true" width="25"/>&nbsp;我目前正在学习JavaScript、Vue、数据结构和算法 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/Developer.gif?raw=true" width="25"/>&nbsp;我正在学习:JavaScript、Vue、数据结构和算法 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;我喜欢探索前沿技术. <br>
 -  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;我的联系邮箱 **[jay1124cbl@126.com](jay1124cbl@126.com)**<br>
 
