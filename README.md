@@ -17,7 +17,4 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" width="50%" align="right"/>
 </div>
 
-<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" width="100%" />
