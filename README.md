@@ -29,12 +29,14 @@
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 <a name="learning-next"></a>
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" align="left" width="50%">
+<span align="left" >
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" width="50%">
+</span>
+<span align="right" >
 <img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" align="right" width="50%"/>
-</div>
-<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+</span>
 
+<img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
