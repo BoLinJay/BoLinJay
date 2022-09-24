@@ -30,12 +30,12 @@
 &nbsp;
 <a name="learning-next"></a>
 
-<span align="left" >
+<div align="left" >
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" width="50%">
-</span>
-<span align="right" >
+</div>
+<div align="right" width="50%">
 <img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" width="50%"/>
-</span>
+</div>
 
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 [tech_tools_anchor]: #bonjour--
