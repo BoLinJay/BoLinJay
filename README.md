@@ -14,7 +14,6 @@
 ## 🚀💻 Technologies & Tools
 
 <a name="learning-now"></a>
-
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
@@ -29,15 +28,13 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
 <a name="learning-next"></a>
 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" align="left" width="50%">
+<img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" align="right" width="50%"/>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" algin="left" width="50%">
-<div algin="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" algin="right" width="50%"/>
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-</div>
+
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
