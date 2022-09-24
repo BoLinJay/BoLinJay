@@ -13,8 +13,8 @@
 
 ## 🚀💻
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" width="25%" alt="Github Image"/> 123
-<img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" width="25%" align="right" alt="Github Image"/><br>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=BoLinJay&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" width="50%" alt="Github Image"/>|
+<img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" width="50%" align="right" alt="Github Image"/><br>
 
 
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" width="100%" />
