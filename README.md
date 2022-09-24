@@ -35,6 +35,7 @@
 </span>
 
 ![](https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical)
+<img src="https://activity-graph.herokuapp.com/graph?username=BoLinJay&theme=redical" />
 
 <img src="https://github.com/BoLinJay/BoLinJay/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 
